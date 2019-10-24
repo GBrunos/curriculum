@@ -1,6 +1,6 @@
 .. toctree::
 :maxdepth: 3
 :caption: indice
-Informazioni personali
-Professione
-Esperienze di lavoro
+Informazioni personali.rst
+Professione.rst
+Esperienze di lavoro.rst
