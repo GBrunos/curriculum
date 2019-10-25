@@ -1,4 +1,13 @@
 .. toctree::
+
 :maxdepth: 3
-:caption: indice
+
+:caption:
+
 Informazioni personali
+
+Professione
+
+Esperienze di lavoro
+
+.. bottom of content
