@@ -1,4 +1,11 @@
 
+.. toctree:: 
+    :maxdepth: 2
+    :hidden:
+
+    Informaziomi personali 
+    Professione
+
 .. _h303cf3c491e4119152f54e6e29734:
 
 Informazioni Personali
