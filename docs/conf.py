@@ -23,7 +23,7 @@ extlinks = {}
 
 # -- Options for HTML output ---------------------------------------------------
 
-html_theme = 'template'
+html_theme = 'alabaster'
 
 html_static_path = ['static']
 
