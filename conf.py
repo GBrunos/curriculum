@@ -14,7 +14,7 @@ __version__ = '1.0'
 source_suffix = '.rst'
 master_doc = 'index'
 project = 'Gaetano Bruno'
-copyright = '2019, libera'
+copyright = '2020, libera'
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
